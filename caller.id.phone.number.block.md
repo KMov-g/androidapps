@@ -13,7 +13,7 @@ Task Hijacking allows malicious apps to inherit permissions of vulnerable apps a
 
 ## Video Proof of Concept
 
-![caller.id.phone.number.block](https://myimage-1303975616.cos.ap-guangzhou.myqcloud.com/img/2023202507131445354.gif)
+![POC](./video/caller.id.phone.number.block.gif)
 
 It can be seen that after executing the malicious program, the task is successfully hijacked, and the malicious application is actually opened when the victim application is launched.
 
