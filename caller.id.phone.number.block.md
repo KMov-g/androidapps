@@ -2,7 +2,7 @@
 
 ## Description
 
-Task Hijacking allows malicious apps to inherit permissions of vulnerable apps and is usually used for phishing login credentials of victims,its used by malicious actors to manipulate or take over tasks in Android, leading to significant vulnerabilities, This vulnerability applies to all Android versions before Android 11.
+Task Hijacking allows malicious apps to inherit permissions of vulnerable apps and is usually used for phishing login credentials of victims,its used by malicious actors to manipulate or take over tasks in Android, leading to significant vulnerabilities, This vulnerability applies to all Android versions before Android 11. The AndroidManifest.xml configuration needs to be modified to mitigate this attack.
 
 ## Steps To Reproduce:
 
