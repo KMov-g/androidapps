@@ -1,4 +1,4 @@
-# Android Manifest Misconfiguration Leading to Task Hijacking in Caixin News  app(com.boquanhash.dotwallet) 
+# Android Manifest Misconfiguration Leading to Task Hijacking in DotWallet  app(com.boquanhash.dotwallet) 
 
 ## Description
 
